@@ -3,7 +3,7 @@ This is the official PyTorch implementation of our work: "Dual-Recommendation Di
 
 In this paper, we present a novel approach and we define a new problem for Multi-view action recognition. We asses the performance of our method and previous state-of-the-art methods on N-UCLA and NTU-RGB+D datasets, We do some experimental analysis at IXMAS dataset.
 
-![Framework](https://github.com/51cloud/DRDN/blob/main/overview.pdf)
+![Framework](https://github.com/51cloud/DRDN/blob/main/overview.png)
 
 
 # Requirements
