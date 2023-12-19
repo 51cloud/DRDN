@@ -101,3 +101,24 @@ python tools/run_net.py \
 ```
 python \tools\run_net.py --cfg path/to/<pretrained_model_config_file>.yaml
 ```
+## Contributors
+PySlowFast is written and maintained by [Wenxuan Liu](https://orcid.org/0000-0002-4417-6628), [Xian Zhong](https://lyttonhao.github.io/), [Zhuo Zhou](https://www.cs.utexas.edu/~bxiong/), [Kui Jiang](https://www.linkedin.com/in/wanyenlo/), [Zheng Wang](https://feichtenhofer.github.io/), [Chia{-}Wen Lin}](https://feichtenhofer.github.io/).
+
+## Citing PySlowFast
+If you find DRDN useful in your research, please use the following BibTeX entry for citation.
+```BibTeX
+@article{DBLP:journals/tip/LiuZZJWL23,
+  author       = {Wenxuan Liu and
+                  Xian Zhong and
+                  Zhuo Zhou and
+                  Kui Jiang and
+                  Zheng Wang and
+                  Chia{-}Wen Lin},
+  title        = {Dual-Recommendation Disentanglement Network for View Fuzz in Action
+                  Recognition},
+  journal      = {{IEEE} Trans. Image Process.},
+  volume       = {32},
+  pages        = {2719--2733},
+  year         = {2023},
+}
+```
