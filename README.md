@@ -26,11 +26,6 @@ This repository uses the following libraries:
 - moviepy: (optional, for visualizing video on tensorboard) `conda install -c conda-forge moviepy` or `pip install moviepy`
 - PyTorchVideo: `pip install pytorchvideo`
 
-# How to download data
-In this project we use three dataset, N-UCLA, NTU-RGB+D and IXMAS. 
-We provide the scripts to download them in 'data/download_\<dataset_name\>.sh'.
-The script takes no inputs but use it in the target directory (where you want to download data). 
-
 # How to perform training
 The most important file is run.py, that is in charge to start the training or test procedure.
 To run it, simpy use the following command:
