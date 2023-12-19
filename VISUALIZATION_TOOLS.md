@@ -151,7 +151,3 @@ DEMO:
 ```
 python \tools\run_net.py --cfg path/to/<pretrained_model_config_file>.yaml
 ```
-### Download class name files
-- [AVA class names json file](https://drive.google.com/file/d/1qwQQg2FELIZWx68jShSUHMLhqjRut53P/view?usp=sharing)
-- [Kinetics class names json file](https://drive.google.com/file/d/1_Yq-yM2oDcCv4TikyUvu3tVFpKOLnVpK/view?usp=sharing)
-- [Kinetics parent-child class mapping](https://drive.google.com/file/d/1hJglykMda59aDF_ruYfMF9BhTxxQ6yaJ/view?usp=sharing)
