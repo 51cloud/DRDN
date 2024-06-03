@@ -97,7 +97,7 @@ python tools/run_net.py \
 python \tools\run_net.py --cfg path/to/<pretrained_model_config_file>.yaml
 ```
 ## Contributors
-DRDN is written and maintained by [Wenxuan Liu](https://orcid.org/0000-0002-4417-6628), [Xian Zhong](https://orcid.org/0000-0002-5242-0467), [Zhuo Zhou](https://orcid.org/0000-0003-4620-4378), [Kui Jiang](https://orcid.org/0000-0002-4055-7503), [Zheng Wang](https://orcid.org/0000-0003-3846-9157), [Chia-Wen Lin}](https://orcid.org/0000-0002-9097-2318).
+DRDN is written and maintained by [Wenxuan Liu](https://orcid.org/0000-0002-4417-6628), [Xian Zhong](https://orcid.org/0000-0002-5242-0467), [Zhuo Zhou](https://orcid.org/0000-0003-4620-4378), [Kui Jiang](https://orcid.org/0000-0002-4055-7503), [Zheng Wang](https://orcid.org/0000-0003-3846-9157), [Chia-Wen Lin](https://orcid.org/0000-0002-9097-2318).
 
 ## Citing DRDN
 If you find DRDN useful in your research, please use the following BibTeX entry for citation.
